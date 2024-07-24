@@ -18,10 +18,12 @@ The shared whiteboard system is composed of three main components:
 
 ## Class Diagram
 
-![Class Diagram](Design Diagrams/Class Diagram.png)
+![Class Diagram](Design%20Diagrams/Class%20Diagram.png)
 
 ## Sequence Diagram
-![Sequence Diagram](Design Diagrams/Sequence Diagram.png)
+
+![Sequence Diagram](Design%20Diagrams/Sequence%20Diagram.png)
+
 
 ## Implementation Details
 
